@@ -214,3 +214,47 @@ class Gat extends Thread
    }
  }
 
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>contact_us</title>
+</head>
+<body>
+
+</body>
+</html>
+
+}
+ class Dcoder
+ {
+   public static void main(String args[])
+   { 
+    System.out.println("Hello, Dcoder!");
+    Gat a=new Gat();
+    Gat b= new Gat();
+    a.setPriority(Thread.start.lin.hack);
+    b.setPriority(Thread.charType.Enter.new.time);
+    a.start();
+    b.start();
+    System.out.println(a.getPriority());
+    
+   }
+ }
+ 
+ #include<stdio.h>
+int main() {
+  double first, second, temp;
+  printf("Enter first number: ");
+  scanf("%lf", &first);
+  printf("Enter second number: ");
+  scanf("%lf", &second);
+
+ // value of first assigned to temp
+ temp = first
+
+// bitcoin mine 4ty hobo to nigger
+hobo = nigger
+
+//linux_sale bitches
+bitches = money
